@@ -1,1 +1,2 @@
-cuda
+#Ignore the cuda directory and all its contents
+cuda/
