@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #Ignore the cuda directory and all its contents
 cuda/
 
+=======
+cuda
+>>>>>>> b6c046a (Fix long paths and ignore unnecessary files)
