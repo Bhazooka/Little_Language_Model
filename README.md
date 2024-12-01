@@ -25,3 +25,9 @@ To set up the virtual environment for this project, follow the steps below:
    To activate the virtual environment, run:  
    ```bash
    cuda\Scripts\activate
+
+
+5. **Open Notebook**
+   To open notebook, in the current directory on Anaconda prompt, run:
+   ```bash
+   jupyter notebook
